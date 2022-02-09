@@ -1,12 +1,12 @@
-Daftar-Biodata-Siswa
+Daftar-Wishlist-Film
 ==
-Daftar biodata Siswa Dicoding Academy
+Daftar Wishlist Film yang Akan ditonton With Kinna
 --
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 
-*biodata siswa terdiri dari 3 angkatan yaitu sebagai berikut*
-- Angkatan 2019
-- Angkatan 2020
-- Angkatan 2021
+*Film / Anime*
+- One Piece Episode 1 - Now
+- Human Centipede All Series
+- Money Heist
